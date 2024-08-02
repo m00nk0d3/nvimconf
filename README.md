@@ -1,1 +1,1 @@
-*** Neovim configuratio files by M00nk0d3 ***
+*** Neovim configuration files by M00nk0d3 ***
